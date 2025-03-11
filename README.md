@@ -40,8 +40,8 @@ This module implements the Shape from Shading Algorithm using first principles.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/dangercomix07/Shape-from-Shading.git
+cd Shape-from-Shading
 ```
 
 ## Usage
